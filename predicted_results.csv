@@ -1,0 +1,6 @@
+Distance Between Stations (km),Weather Conditions_Foggy,Weather Conditions_Rainy,Day of the Week_Monday,Day of the Week_Thursday,Day of the Week_Tuesday,Day of the Week_Wednesday,Time of Day_Evening,Time of Day_Morning,Time of Day_Night,Train Type_Local,Train Type_Superfast,Route Congestion_Low,Route Congestion_Medium,Predicted_Status
+120,False,False,True,False,False,False,False,True,False,False,False,True,False,On Time
+180,False,True,False,False,True,False,False,False,False,False,True,False,True,Delayed
+250,True,False,False,False,False,True,True,False,False,True,False,False,False,Delayed
+90,False,False,False,True,False,False,False,False,True,False,False,True,False,On Time
+70,False,True,False,False,False,False,False,True,False,False,True,False,True,Delayed

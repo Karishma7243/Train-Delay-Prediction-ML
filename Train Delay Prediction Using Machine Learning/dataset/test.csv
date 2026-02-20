@@ -1,0 +1,6 @@
+Distance Between Stations (km),Weather Conditions,Day of the Week,Time of Day,Train Type,Historical Delay (min),Route Congestion
+120,Clear,Monday,Morning,Express,5,Low
+180,Rainy,Tuesday,Afternoon,Superfast,12,Medium
+250,Foggy,Wednesday,Evening,Local,18,High
+90,Clear,Thursday,Night,Express,4,Low
+70,Rainy,Friday,Morning,Superfast,10,Medium
