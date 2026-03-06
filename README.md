@@ -100,8 +100,3 @@ Run the Jupyter Notebook to see the analysis and model training.
 * Deploy the model as a web application
 * Integrate with railway information systems
 
----
-
-## 👨‍💻 Author
-
-Project developed as part of a Machine Learning project to demonstrate predictive analytics using historical train delay data.
